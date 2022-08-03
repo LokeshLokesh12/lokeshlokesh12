@@ -1,7 +1,8 @@
 ### Hi Developers 👋
 I'm
-full stack web developer
-iam a studing full stack web developer @edureka
+I am electronics engineer with great interest on 
+"web development"
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/lokeshlokesh12/count.svg)
