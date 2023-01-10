@@ -4,10 +4,10 @@
 "web development" -->
 
 <h1>I'm Lokesh</h1>
-<p>I had studied diploma in electronics and communication engineering,but</p>
-<p>I have great interest on web development </p>
-<p>so, i choose edureka to learn FRONT-END technology such as HTML, CSS, JAVASCRIPT and REACTjs</p>
-<p>with this knowledge, I can bulid an website as i want</p>
+<p>I had studied diploma in electronics and communication engineering but,
+I have great interest on web development 
+so, I choose edureka to learn FRONT-END technology such as HTML, CSS, JAVASCRIPT and REACTjs 
+with this knowledge, I can bulid an website as i want </p>
 <ul style="list-style: none;">
     <h1>A small gallery of my project</h1>
     <li> 
