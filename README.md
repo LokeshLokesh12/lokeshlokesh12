@@ -1,7 +1,28 @@
     ### Hi Developers 👋
-I'm
-I am electronics engineer with great interest on 
-"web development"
+<!-- I'm -->
+<!-- I am electronics engineer with great interest on 
+"web development" -->
+
+<h1>I'm Lokesh</h1>
+<p>I studied diplom in electronic and communication,but</p>
+<p>I have great interest on web development </p>
+<p>so, i choose edureka to learn fronend technology such as HTML, CSS, JAVASCRIPT and REACTjs</p>
+<p>with this knowledge, I can bulid an website as i want</p>
+<ul style="list-style: none;">
+    <h1>A small gallery of my project</h1>
+    <li> 
+        <h5>Airtel landing page</h5>
+        <a style="margin: 10px;" href="https://lokeshlokesh12.github.io/Airtel-clone/"> https://lokeshlokesh12.github.io/Airtel-clone/ </a>
+    </li>
+    <li> 
+        <h5>zomato landing page</h5>
+        <a style="margin: 10px;" href="https://lokeshlokesh12.github.io/zomato-homepage/"> https://lokeshlokesh12.github.io/zomato-homepage/ </a>
+    </li>
+    <li> 
+        <h5>Netflix landing page</h5>
+        <a style="margin: 10px;" href="https://lokeshlokesh12.github.io/Netflix/"> https://lokeshlokesh12.github.io/Netflix/ </a>
+    </li>
+</ul>
 
 
 
