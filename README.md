@@ -8,6 +8,9 @@
 I have great interest on web development 
 so, I choose edureka to learn FRONT-END technology such as HTML, CSS, JAVASCRIPT and REACTjs 
 with this knowledge, I can bulid an website as i want </p>
+
+![Visitor Count](https://profile-counter.glitch.me/lokeshlokesh12/count.svg)
+
 <ul style="list-style: none;">
     <h1>A small gallery of my project</h1>
     <li> 
@@ -26,7 +29,7 @@ with this knowledge, I can bulid an website as i want </p>
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/lokeshlokesh12/count.svg)
+
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
