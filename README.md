@@ -92,5 +92,5 @@ Here are some ideas to get you started:
   <img align=”left” src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshlokesh12&show_icons=true&locale=en&layout=compact" alt="lokeshlokesh12" width="500px"  style="margin: 10px ;" /></p>
 <!-- <br/> -->
 <p style="display:block;">&nbsp;
-  <img align=”left” src="https://github-readme-stats.vercel.app/api?username=lokeshlokesh12&show_icons=true&locale=en" alt="lokeshlokesh12" width="500px" style="margin: 5px ;"/>
+  <img align=”left” src="https://github-readme-stats.vercel.app/api?username=lokeshlokesh12&show_icons=true&locale=en" alt="lokeshlokesh12" width="500px" />
 </p>
