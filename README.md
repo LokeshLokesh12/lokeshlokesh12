@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 @@     | |"| |                                         @@
 @@     ( ) ( )   Testing leads to failure              @@
 @@     |_| |_|   and failure leads to understanding    @@
-@@  _.-' / \ '-._                                     @@
+@@  _.-' / \ '-._                                      @@
 @@ (___.'    '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
