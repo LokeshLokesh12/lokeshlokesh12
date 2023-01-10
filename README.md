@@ -89,5 +89,5 @@ Here are some ideas to get you started:
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshlokesh12&show_icons=true&locale=en&layout=compact" alt="lokeshlokesh12" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshlokesh122&show_icons=true&locale=en" alt="lokeshlokesh12" /></p>
+<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshlokesh12&show_icons=true&locale=en" alt="lokeshlokesh12" /></p>
