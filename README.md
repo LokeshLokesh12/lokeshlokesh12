@@ -25,9 +25,9 @@ with this knowledge, I can bulid an website as i want </p>
         <h5>Netflix landing page</h5>
         <a style="margin: 10px;" href="https://lokeshlokesh12.github.io/Netflix/"> https://lokeshlokesh12.github.io/Netflix/ </a>
     </li>
-      <li> 
+     <li> 
         <h5>Netflix clone</h5>
-        <a style="margin: 10px;" href=" https://dapper-mooncake-908bb2.netlify.app/show/"> https://dapper-mooncake-908bb2.netlify.app/show/ </a>
+        <a style="margin: 10px;" href="https://dapper-mooncake-908bb2.netlify.app/show/"> https://dapper-mooncake-908bb2.netlify.app/show/ </a>
     </li>
    
 </ul>
