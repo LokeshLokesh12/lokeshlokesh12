@@ -27,8 +27,7 @@ with this knowledge, I can bulid an website as i want </p>
     </li>
       <li> 
         <h5>Netflix clone</h5>
-        <a style="margin: 10px;" href=" https://dapper-mooncake-908bb2.netlify.app/show">https://dapper-mooncake-908bb2.netlify.app/show </a>
-        
+        <a style="margin: 10px;" href=" https://dapper-mooncake-908bb2.netlify.app/show"> https://dapper-mooncake-908bb2.netlify.app/show </a>
     </li>
    
 </ul>
