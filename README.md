@@ -142,7 +142,7 @@ Here are some ideas to get you started:
 ```
  
 </div>
-
+![lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <p style="display:block;">
   <img align=”left” src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshlokesh12&show_icons=true&locale=en&layout=compact" alt="lokeshlokesh12" width="500px" style="margin: 10px" /></p>
 <!-- <br/> -->
