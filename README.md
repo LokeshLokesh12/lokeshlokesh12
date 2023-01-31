@@ -29,6 +29,10 @@ with this knowledge, I can bulid an website as i want </p>
         <h5>Netflix clone</h5>
         <a style="margin: 10px;" href="https://dapper-mooncake-908bb2.netlify.app/show/"> https://dapper-mooncake-908bb2.netlify.app/show/ </a>
     </li>
+     <li> 
+        <h5>Tesla clone</h5>
+        <a style="margin: 10px;" href="https://react-clone-tesla.netlify.app/"> https://react-clone-tesla.netlify.app/ </a>
+    </li>
    
 </ul>
 
