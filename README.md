@@ -14,31 +14,26 @@ with this knowledge, I can bulid an website as i want </p>
 <ul style="list-style: none;">
     <h1>A small gallery of my project</h1>
     <li> 
-        <h5>Airtel landing page</h5>
+        <h5>Airtel Landing Page</h5>
         <a style="margin: 10px;" href="https://lokeshlokesh12.github.io/Airtel-clone/"> https://lokeshlokesh12.github.io/Airtel-clone/ </a>
     </li>
     <li> 
-        <h5>zomato landing page</h5>
+        <h5>Zomato Landing Page</h5>
         <a style="margin: 10px;" href="https://lokeshlokesh12.github.io/zomato-homepage/"> https://lokeshlokesh12.github.io/zomato-homepage/ </a>
     </li>
     <li> 
-        <h5>Netflix landing page</h5>
+        <h5>Netflix Landing Page</h5>
         <a style="margin: 10px;" href="https://lokeshlokesh12.github.io/Netflix/"> https://lokeshlokesh12.github.io/Netflix/ </a>
     </li>
      <li> 
-        <h5>Netflix clone</h5>
+        <h5>Netflix Clone</h5>
         <a style="margin: 10px;" href="https://dapper-mooncake-908bb2.netlify.app/show/"> https://dapper-mooncake-908bb2.netlify.app/show/ </a>
     </li>
      <li> 
-        <h5>Tesla clone</h5>
+        <h5>Tesla Landing Page</h5>
         <a style="margin: 10px;" href="https://react-clone-tesla.netlify.app/"> https://react-clone-tesla.netlify.app/ </a>
-    </li>
-   
+    </li>  
 </ul>
-
-
-
-
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
