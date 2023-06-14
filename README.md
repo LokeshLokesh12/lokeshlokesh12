@@ -4,10 +4,11 @@
 "web development" -->
 
 <h1>I'm Lokesh</h1>
-<p>I had studied diploma in electronics and communication engineering but,
+<!-- <p>I had studied diploma in electronics and communication engineering but,
 I have great interest on web development 
 so, I choose edureka to learn FRONT-END technology such as HTML, CSS, JAVASCRIPT and REACTjs 
-with this knowledge, I can bulid an website as i want </p>
+with this knowledge, I can bulid an website as i want </p> -->
+<p>I studied diploma in Electronics and Communication Engineering, but I have a great interest in web development. Therefore, I chose Edureka as my learning platform to acquire skills in front-end technologies such as HTML, CSS, JavaScript, and React.js. With this knowledge, I will be able to build websites exactly as I envision them.</p>
 
 ![Visitor Count](https://profile-counter.glitch.me/lokeshlokesh12/count.svg)
 
